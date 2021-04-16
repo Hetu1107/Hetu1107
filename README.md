@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently learning software dev..
 - 💬 Ask me about any tech related stuffs
-- 📫 How to reach me:
+- 📫 How to reach me on: twitter hetu1107
 - 😄 Pronouns: He/His
