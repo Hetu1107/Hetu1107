@@ -7,7 +7,7 @@
 - 💬 Ask me about any tech related stuffs
 - Goal 2021 : do more open source contribution!!
 - 😄 Pronouns: He/His
-- 📫 How to reach me on: 
+- 📫 Reach me on: 
 
 
    <a href="https://twitter.com/PatelHetu13/with_replies?s=08" width><img src="https://user-images.githubusercontent.com/81302882/119007417-d42b7d00-b9ae-11eb-9496-657c8fc3211b.png"
