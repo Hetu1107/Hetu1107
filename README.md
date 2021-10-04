@@ -16,7 +16,7 @@
 
 <br/>
 <h2 align="center">Github Statistics  <img src="static.png" align="center" width="30"/></h2>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hetu1107 &theme=radical align="center")
+<img src="https://github-readme-stats.vercel.app/api?username=Hetu1107&show_icons=true&theme=radical" align="center"/>
 
 <br/>
 <br/>
