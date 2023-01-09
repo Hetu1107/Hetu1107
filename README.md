@@ -1,5 +1,5 @@
 <h1 align="center">Hola I'm Hetu <img src="hello.gif" align="center" width="50" /></h1>
-<h2>Currently studying Computer science and engineering 🖥️</h2>
+<h2>Currently pursuing Computer science and engineering 🖥️</h2>
 <h2>At Indian institute of information technology, surat 👨🏻‍🎓🎓</h2>
 <br/>
 
@@ -7,7 +7,7 @@
 - 💬 Ask me about any tech related stuffs
 - Goal 2021 : do more open source contribution!!
 - 😄 Pronouns: He/His
-- My 😄 <a href="https://hetu1107.github.io/Portfolio-Website/">Portfolio</a> website
+- My 😄 <a href="https://hetupatel.me">Portfolio</a> website
 
 <br/>
 <h2 align="left">Languages and Tools:</h2>
